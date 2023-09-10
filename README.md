@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**Danitap-97/Danitap-97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, Welcome to my profile👋
 
-Here are some ideas to get you started:
+About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👋 I'm Daniela.
+🔭 I'm currently looking for employment.
+🌱 I'm preparing myself at Laboratoria.
+👯 I'm looking to grow both personally and professionally.
+🤔 I love teamwork because I know it helps me enrich my knowledge and share mine.
+📫 Contact me through tapiasdaniela669@gmail.com.
+  
+
